@@ -26,7 +26,7 @@ The code may not be perfect. It exists for demonstration and educational purpose
 
 ## Screenshots
 ![Shot 1](Images/shot1.png)
-![Shot 2](Images/shot1.png)
+![Shot 2](Images/shot2.png)
 
 
 ## Coding "workbench"

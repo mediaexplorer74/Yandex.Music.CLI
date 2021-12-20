@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TermStyle", "Yandex.Music.CLI\TermStyle.csproj", "{85762DFE-C19D-4C2F-BA88-0629C0E07EAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yandex.Music.Api", "Yandex.Music.Api\Yandex.Music.Api.csproj", "{854BFB15-7233-4803-B81F-0D40BBB6F8F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yandex.Music.Client", "Yandex.Music.Client\Yandex.Music.Client.csproj", "{BF98E6FE-637B-427F-8A7B-4125105C870E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85762DFE-C19D-4C2F-BA88-0629C0E07EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85762DFE-C19D-4C2F-BA88-0629C0E07EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85762DFE-C19D-4C2F-BA88-0629C0E07EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85762DFE-C19D-4C2F-BA88-0629C0E07EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854BFB15-7233-4803-B81F-0D40BBB6F8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854BFB15-7233-4803-B81F-0D40BBB6F8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854BFB15-7233-4803-B81F-0D40BBB6F8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854BFB15-7233-4803-B81F-0D40BBB6F8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF98E6FE-637B-427F-8A7B-4125105C870E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF98E6FE-637B-427F-8A7B-4125105C870E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF98E6FE-637B-427F-8A7B-4125105C870E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF98E6FE-637B-427F-8A7B-4125105C870E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B376FF09-1A6C-40CC-9C86-EFB9B4C2268F}
+	EndGlobalSection
+EndGlobal

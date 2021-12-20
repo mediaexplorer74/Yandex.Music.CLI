@@ -31,7 +31,7 @@ The code may not be perfect. It exists for demonstration and educational purpose
 
 ## Coding "workbench"
 
-1. Visual Studio 2022 (But VS 2017 compatibility remained, for Live WinPhone debugging, heh!)
+1. Visual Studio 2022
 
 2. .NET Core 3.1
 
